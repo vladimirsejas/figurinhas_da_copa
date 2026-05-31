@@ -1,6 +1,1168 @@
 {
   "album": [
     {
+      "id": 524,
+      "nome": "Ali Gholizadeh",
+      "pais": "Irã",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 460,
+      "nome": "Hannes Delcroix",
+      "pais": "Haiti",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 63,
+      "nome": "Lautaro Martínez",
+      "pais": "Argentina",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 535,
+      "nome": "Roozbeh Cheshmi",
+      "pais": "Irã",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 406,
+      "nome": "Haji Wright",
+      "pais": "Estados Unidos",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 786,
+      "nome": "Yvon Mvogo",
+      "pais": "Suíça",
+      "posicao": "GOL",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 527,
+      "nome": "Ehsan Hajsafi",
+      "pais": "Irã",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 424,
+      "nome": "Jules Koundé",
+      "pais": "França",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 218,
+      "nome": "Abdulaziz Hatem",
+      "pais": "Catar",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 86,
+      "nome": "Milos Degenek",
+      "pais": "Austrália",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 76,
+      "nome": "Cameron Burgess",
+      "pais": "Austrália",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 635,
+      "nome": "Aron Dønnum",
+      "pais": "Noruega",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 212,
+      "nome": "Moïse Bombito",
+      "pais": "Canadá",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 301,
+      "nome": "Luka Modrić",
+      "pais": "Croácia",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 467,
+      "nome": "Martin Expérience",
+      "pais": "Haiti",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 526,
+      "nome": "Alireza Jahanbakhsh",
+      "pais": "Irã",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 360,
+      "nome": "Willian Pacho",
+      "pais": "Equador",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 316,
+      "nome": "Jurien Gaari",
+      "pais": "Curaçao",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 200,
+      "nome": "Alistair Johnston",
+      "pais": "Canadá",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 560,
+      "nome": "Ali Olwan",
+      "pais": "Jordânia",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 849,
+      "nome": "Igor Sergeev",
+      "pais": "Uzbequistão",
+      "posicao": "ATA",
+      "raridade": "INCOMUM"
+    },
+    {
+      "id": 600,
+      "nome": "Diego Lainez",
+      "pais": "México",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 810,
+      "nome": "Caglar Soyunku",
+      "pais": "Turquia",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 576,
+      "nome": "Yazan Al-Arab",
+      "pais": "Jordânia",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 221,
+      "nome": "Akram Hassan Afif",
+      "pais": "Catar",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 458,
+      "nome": "Frantzdy Pierrot",
+      "pais": "Haiti",
+      "posicao": "ATA",
+      "raridade": "INCOMUM"
+    },
+    {
+      "id": 469,
+      "nome": "Ruben Providence",
+      "pais": "Haiti",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 586,
+      "nome": "Ismael Saibari",
+      "pais": "Marrocos",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 580,
+      "nome": "Adam Masina",
+      "pais": "Marrocos",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 779,
+      "nome": "Manuel Akanji",
+      "pais": "Suíça",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 591,
+      "nome": "Romain Saïss",
+      "pais": "Marrocos",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 608,
+      "nome": "Marcel Ruiz",
+      "pais": "México",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 844,
+      "nome": "Abdukodir Khusanov",
+      "pais": "Uzbequistão",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 475,
+      "nome": "Jan Paul van Hecke",
+      "pais": "Holanda",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 856,
+      "nome": "Otabek Shukurov",
+      "pais": "Uzbequistão",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 177,
+      "nome": "Thibaut Courtois",
+      "pais": "Bélgica",
+      "posicao": "GOL",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 185,
+      "nome": "Deroy Duarte",
+      "pais": "Cabo Verde",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 565,
+      "nome": "Ihsan Haddad",
+      "pais": "Jordânia",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 722,
+      "nome": "Lukáš Provod",
+      "pais": "República Tcheca",
+      "posicao": "MC",
+      "raridade": "INCOMUM"
+    },
+    {
+      "id": 741,
+      "nome": "Iliman Ndiaye",
+      "pais": "Senegal",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 207,
+      "nome": "Jonathan David",
+      "pais": "Canadá",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 821,
+      "nome": "Orkun Kokcu",
+      "pais": "Turquia",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 369,
+      "nome": "Grant Hanley",
+      "pais": "Escócia",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 431,
+      "nome": "Ousmane Dembélé",
+      "pais": "França",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 521,
+      "nome": "Youssef Amyn",
+      "pais": "Iraque",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 755,
+      "nome": "Daniel Svensson",
+      "pais": "Suécia",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 791,
+      "nome": "Aymen Dahmen",
+      "pais": "Tunísia",
+      "posicao": "GOL",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 5,
+      "nome": "Jamal Musiala",
+      "pais": "Alemanha",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 93,
+      "nome": "Ioraam Rayners",
+      "pais": "África do Sul",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 827,
+      "nome": "Federico Valverde",
+      "pais": "Uruguai",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 812,
+      "nome": "Ferdi Kadioglu",
+      "pais": "Turquia",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 407,
+      "nome": "Malim Tillman",
+      "pais": "Estados Unidos",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 268,
+      "nome": "Seung-ho Paik",
+      "pais": "Coreia do Sul",
+      "posicao": "MC",
+      "raridade": "INCOMUM"
+    },
+    {
+      "id": 35,
+      "nome": "Said Benrahma",
+      "pais": "Argélia",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 776,
+      "nome": "Granit Xhaka",
+      "pais": "Suíça",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 33,
+      "nome": "Rayan Aït-Nouri",
+      "pais": "Argélia",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 677,
+      "nome": "Mathías Villasanti",
+      "pais": "Paraguai",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 214,
+      "nome": "Richie Laryea",
+      "pais": "Canadá",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 588,
+      "nome": "Munir El Kajoui",
+      "pais": "Marrocos",
+      "posicao": "GOL",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 226,
+      "nome": "Hassan Al-Haydos",
+      "pais": "Catar",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 671,
+      "nome": "Fabián Balbuena",
+      "pais": "Paraguai",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 543,
+      "nome": "Ayase Ueda",
+      "pais": "Japão",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 194,
+      "nome": "Ryan Mendes",
+      "pais": "Cabo Verde",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 446,
+      "nome": "Mohammed Kudus",
+      "pais": "Gana",
+      "posicao": "MC",
+      "raridade": "INCOMUM"
+    },
+    {
+      "id": 190,
+      "nome": "Kevin Pina",
+      "pais": "Cabo Verde",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 246,
+      "nome": "Juan Fernando Quintero",
+      "pais": "Colômbia",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 711,
+      "nome": "Nathanaël Mbuku",
+      "pais": "RD Congo",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 275,
+      "nome": "Evann Guessand",
+      "pais": "Costa do Marfim",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 141,
+      "nome": "Raphinha",
+      "pais": "Brasil",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 638,
+      "nome": "Julian Ryerson",
+      "pais": "Noruega",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 479,
+      "nome": "Micky van de Ven",
+      "pais": "Holanda",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 562,
+      "nome": "Abdallah Nasib",
+      "pais": "Jordânia",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 321,
+      "nome": "Roshon Van Eijma",
+      "pais": "Curaçao",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 16,
+      "nome": "Ridle Baku",
+      "pais": "Alemanha",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 646,
+      "nome": "Patrick Berg",
+      "pais": "Noruega",
+      "posicao": "MC",
+      "raridade": "INCOMUM"
+    },
+    {
+      "id": 845,
+      "nome": "Azizbek Turgunboev",
+      "pais": "Uzbequistão",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 454,
+      "nome": "Danley Jean Jacques",
+      "pais": "Haiti",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 88,
+      "nome": "Nestory Irankunda",
+      "pais": "Austrália",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 180,
+      "nome": "Youri Tielemans",
+      "pais": "Bélgica",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 256,
+      "nome": "Han-beom Lee",
+      "pais": "Coreia do Sul",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 111,
+      "nome": "Christoph Baumgartner",
+      "pais": "Áustria",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 118,
+      "nome": "Michael Gregoritsch",
+      "pais": "Áustria",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 179,
+      "nome": "Timothy Castagne",
+      "pais": "Bélgica",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 276,
+      "nome": "Franck Kessié",
+      "pais": "Costa do Marfim",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 380,
+      "nome": "Álvaro Morata",
+      "pais": "Espanha",
+      "posicao": "ATA",
+      "raridade": "INCOMUM"
+    },
+    {
+      "id": 136,
+      "nome": "Lucas Paquetá",
+      "pais": "Brasil",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 379,
+      "nome": "Scott McTominay",
+      "pais": "Escócia",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 186,
+      "nome": "Garry Rodrigues",
+      "pais": "Cabo Verde",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 343,
+      "nome": "Zizo",
+      "pais": "Egito",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 465,
+      "nome": "Leverton Pierre",
+      "pais": "Haiti",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 109,
+      "nome": "Alexander Prass",
+      "pais": "Áustria",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 175,
+      "nome": "Nicolas Raskin",
+      "pais": "Bélgica",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 618,
+      "nome": "Elijah Just",
+      "pais": "Nova Zelândia",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 110,
+      "nome": "Alexander Schlager",
+      "pais": "Áustria",
+      "posicao": "GOL",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 704,
+      "nome": "Charles Pickel",
+      "pais": "RD Congo",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 736,
+      "nome": "Boulaye Dia",
+      "pais": "Senegal",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 718,
+      "nome": "David Zima",
+      "pais": "República Tcheca",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 209,
+      "nome": "Kamal Miller",
+      "pais": "Canadá",
+      "posicao": "DF",
+      "raridade": "INCOMUM"
+    },
+    {
+      "id": 528,
+      "nome": "Hossein Kanaani",
+      "pais": "Irã",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 192,
+      "nome": "Patrick Andrade",
+      "pais": "Cabo Verde",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 427,
+      "nome": "Lucas Digne",
+      "pais": "França",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 613,
+      "nome": "Érick Sánchez",
+      "pais": "México",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 157,
+      "nome": "Ivan Šunjić",
+      "pais": "Básnia e Herzegovina",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 59,
+      "nome": "Exequiel Palacios",
+      "pais": "Argentina",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 549,
+      "nome": "Kaishu Sano",
+      "pais": "Japão",
+      "posicao": "MC",
+      "raridade": "INCOMUM"
+    },
+    {
+      "id": 400,
+      "nome": "Brenden Aaronson",
+      "pais": "Estados Unidos",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 636,
+      "nome": "David Møller Wolfe",
+      "pais": "Noruega",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 49,
+      "nome": "Nawaf Boushal",
+      "pais": "Arábia Saudita",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 617,
+      "nome": "Chris Wood",
+      "pais": "Nova Zelândia",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 115,
+      "nome": "Konrad Laimer",
+      "pais": "Áustria",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 156,
+      "nome": "Ivan Bašić",
+      "pais": "Básnia e Herzegovina",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 837,
+      "nome": "Rodrigo Aguirre",
+      "pais": "Uruguai",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 342,
+      "nome": "Yasser Ibrahim",
+      "pais": "Egito",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 123,
+      "nome": "Phillipp Mwene",
+      "pais": "Áustria",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 449,
+      "nome": "Salis Abdul Samed",
+      "pais": "Gana",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 582,
+      "nome": "Azzedine Ounahi",
+      "pais": "Marrocos",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 341,
+      "nome": "Trezeguet",
+      "pais": "Egito",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 288,
+      "nome": "Yahia Fofana",
+      "pais": "Costa do Marfim",
+      "posicao": "GOL",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 717,
+      "nome": "Adam Hložek",
+      "pais": "República Tcheca",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 517,
+      "nome": "Mohanad Ali",
+      "pais": "Iraque",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 731,
+      "nome": "Tomáš Souček",
+      "pais": "República Tcheca",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 45,
+      "nome": "Moteb Al-Harbi",
+      "pais": "Arábia Saudita",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 356,
+      "nome": "Nilson Angulo",
+      "pais": "Equador",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 771,
+      "nome": "Ardon Jashari",
+      "pais": "Suíça",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 471,
+      "nome": "Cody Gakpo",
+      "pais": "Holanda",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 52,
+      "nome": "Saleh Alshehri",
+      "pais": "Arábia Saudita",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 468,
+      "nome": "Ricardo Adé",
+      "pais": "Haiti",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 399,
+      "nome": "Antonee Robinson",
+      "pais": "Estados Unidos",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 835,
+      "nome": "Nahitan Nandez",
+      "pais": "Uruguai",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 29,
+      "nome": "Mohammed Amoura",
+      "pais": "Argélia",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 770,
+      "nome": "Yasin Ayari",
+      "pais": "Suécia",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 99,
+      "nome": "Nkosinathi Sibisi",
+      "pais": "África do Sul",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 557,
+      "nome": "Tsuyoshi Watanabe",
+      "pais": "Japão",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 128,
+      "nome": "Bento",
+      "pais": "Brasil",
+      "posicao": "GOL",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 408,
+      "nome": "Mark McKenzie",
+      "pais": "Estados Unidos",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 187,
+      "nome": "Jamiro Monteiro",
+      "pais": "Cabo Verde",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 515,
+      "nome": "Marko Farji",
+      "pais": "Iraque",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 85,
+      "nome": "Mathew Ryan",
+      "pais": "Austrália",
+      "posicao": "GOL",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 248,
+      "nome": "Kevin Castaño",
+      "pais": "Colômbia",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 703,
+      "nome": "Chancel Mbemba",
+      "pais": "RD Congo",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 26,
+      "nome": "Houssem Aouar",
+      "pais": "Argélia",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 36,
+      "nome": "Youcef Atal",
+      "pais": "Argélia",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 592,
+      "nome": "Sofyan Amrabat",
+      "pais": "Marrocos",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 734,
+      "nome": "Václav Černý",
+      "pais": "República Tcheca",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 496,
+      "nome": "Jordan Henderson",
+      "pais": "Inglaterra",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 137,
+      "nome": "Luiz Henrique",
+      "pais": "Brasil",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 22,
+      "nome": "Aïssa Mandi",
+      "pais": "Argélia",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 495,
+      "nome": "John Stones",
+      "pais": "Inglaterra",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 836,
+      "nome": "Nicolás de la Cruz",
+      "pais": "Uruguai",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 768,
+      "nome": "Victor Nilsson Lindelöf",
+      "pais": "Suécia",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 164,
+      "nome": "Alexis Saelemaekers",
+      "pais": "Bélgica",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 795,
+      "nome": "Elias Saad",
+      "pais": "Tunísia",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 715,
+      "nome": "Théo Bongonda",
+      "pais": "RD Congo",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 329,
+      "nome": "Hamdy Fathy",
+      "pais": "Egito",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 443,
+      "nome": "Joseph Paintsil",
+      "pais": "Gana",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 858,
+      "nome": "Sherzod Nasrullaev",
+      "pais": "Uzbequistão",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 101,
+      "nome": "Ronwen Williams",
+      "pais": "África do Sul",
+      "posicao": "GOL",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 657,
+      "nome": "Cristian Martínez",
+      "pais": "Panamá",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 757,
+      "nome": "Emil Holm",
+      "pais": "Suécia",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 719,
+      "nome": "Jindřich Staněk",
+      "pais": "República Tcheca",
+      "posicao": "GOL",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 815,
+      "nome": "Ismail Yuksek",
+      "pais": "Turquia",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 642,
+      "nome": "Marcus Holmgren Pedersen",
+      "pais": "Noruega",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 855,
+      "nome": "Oston Urunov",
+      "pais": "Uzbequistão",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 396,
+      "nome": "Rodri",
+      "pais": "Espanha",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 217,
+      "nome": "Tajon Buchanan",
+      "pais": "Canadá",
+      "posicao": "ATA",
+      "raridade": "INCOMUM"
+    },
+    {
+      "id": 371,
+      "nome": "John McGinn",
+      "pais": "Escócia",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
       "id": 1,
       "nome": "messsi",
       "pais": "Argentina",
@@ -8,5 +1170,132 @@
       "raridade": "rara"
     }
   ],
-  "repetidas": []
+  "repetidas": [
+    {
+      "id": 795,
+      "nome": "Elias Saad",
+      "pais": "Tunísia",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 443,
+      "nome": "Joseph Paintsil",
+      "pais": "Gana",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 443,
+      "nome": "Joseph Paintsil",
+      "pais": "Gana",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 617,
+      "nome": "Chris Wood",
+      "pais": "Nova Zelândia",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 617,
+      "nome": "Chris Wood",
+      "pais": "Nova Zelândia",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 187,
+      "nome": "Jamiro Monteiro",
+      "pais": "Cabo Verde",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 734,
+      "nome": "Václav Černý",
+      "pais": "República Tcheca",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 85,
+      "nome": "Mathew Ryan",
+      "pais": "Austrália",
+      "posicao": "GOL",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 136,
+      "nome": "Lucas Paquetá",
+      "pais": "Brasil",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 837,
+      "nome": "Rodrigo Aguirre",
+      "pais": "Uruguai",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 858,
+      "nome": "Sherzod Nasrullaev",
+      "pais": "Uzbequistão",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 427,
+      "nome": "Lucas Digne",
+      "pais": "França",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 517,
+      "nome": "Mohanad Ali",
+      "pais": "Iraque",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 175,
+      "nome": "Nicolas Raskin",
+      "pais": "Bélgica",
+      "posicao": "MC",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 22,
+      "nome": "Aïssa Mandi",
+      "pais": "Argélia",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 200,
+      "nome": "Alistair Johnston",
+      "pais": "Canadá",
+      "posicao": "DF",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 356,
+      "nome": "Nilson Angulo",
+      "pais": "Equador",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    },
+    {
+      "id": 61,
+      "nome": "Giuliano Simeone",
+      "pais": "Argentina",
+      "posicao": "ATA",
+      "raridade": "COMUM"
+    }
+  ]
 }
