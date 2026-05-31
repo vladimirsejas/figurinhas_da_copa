@@ -55,7 +55,7 @@ figurinhas_da_copa/
 └── requirements.txt
 ```
 
-!## Registro Visual do Sistema
+## Registro Visual do Sistema
 
 ### Menu Principal
 
