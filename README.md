@@ -22,7 +22,7 @@ figurinhas_da_copa/
 │   ├── fila.py          <- fila FIFO propria (enqueue/dequeue)
 │   ├── historico.py     <- registro de trocas
 │   └── persistencia.py  <- salvar/carregar JSON
-└── dados/
+└── dados/               <- criada automaticamente na primeira execucao
     └── dados_album.json <- gerado automaticamente ao salvar
 ```
 

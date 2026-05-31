@@ -1,6 +1,6 @@
 from src.nodo_lista import NodoLista
 
-TOTAL_FIGURINHAS = 640
+TOTAL_FIGURINHAS = 865
 
 
 class Album:

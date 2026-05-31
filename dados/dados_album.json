@@ -1,0 +1,12 @@
+{
+  "album": [
+    {
+      "id": 1,
+      "nome": "messsi",
+      "pais": "Argentina",
+      "posicao": "meio",
+      "raridade": "rara"
+    }
+  ],
+  "repetidas": []
+}
