@@ -23,6 +23,9 @@ Outro recurso importante incorporado ao projeto foi a persistência de dados uti
 
 O resultado final é um sistema que reúne Programação Orientada a Objetos, listas encadeadas, filas, manipulação de arquivos Excel, persistência em JSON, modularização e interface avançada em terminal. Mais do que um simples cadastro de figurinhas, o projeto evoluiu para uma simulação completa de um álbum da Copa do Mundo de 2026 baseado em uma coleção real composta por 865 jogadores.
 
+## Estrutura do Projeto
+
+```text
 figurinhas_da_copa/
 │
 ├── DOCS/
@@ -50,6 +53,7 @@ figurinhas_da_copa/
 ├── main.py
 ├── README.md
 └── requirements.txt
+```
 
 !## Registro Visual do Sistema
 
